@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning computer science and computer engineering, with a focus in AI and machine learning
 - 📫 How to reach me:
-  1. Business: sealscott8904@gmail.com
+  1. Business: seth@scotts-stuff.com
   2. School: sas00064@mix.wvu.edu
 - 😄 Pronouns: he/him
 - Current Projects:
